@@ -565,6 +565,8 @@ export const gluestackUIConfig = createConfig({
       "9xl": 128,
     },
     sizes: {
+      6: 24,
+      10: 40,
       14: 56,
       33: 148,
     },
